@@ -12,17 +12,20 @@ EuroExpense is a desktop expense management application built using C# and WPF. 
 </p>
 
 <br>
-
 <p align="center">
-  <img src="assets/Budget_3.png" width="300">
-  <img src="assets/Budget_2.png" width="300">
+  <img src="assets/Budget_3.png" width="500">
 </p>
-
 <br>
-
 <p align="center">
-  <img src="assets/Dashboard.png" width="300">
-  <img src="assets/Report.png" width="300">
+  <img src="assets/Budget_2.png" width="500">
+</p>
+<br>
+<p align="center">
+  <img src="assets/Dashboard.png" width="500">
+</p>
+<br>
+<p align="center">
+  <img src="assets/Report.png" width="500">
 </p>
 
 ---
