@@ -3,6 +3,16 @@
 A lightweight personal finance tracker built to practice WPF, MVVM, and desktop application development.
 
 EuroExpense is a desktop expense management application built using C# and WPF. It helps users track daily spending, organize expenses, and gain insights into their financial habits through a clean and intuitive interface.
+
+---
+## Screenshots
+
+<p align="center">
+  <img src="assets/home.png" width="250">
+  <img src="assets/add-expense.png" width="250">
+  <img src="assets/dashboard.png" width="250">
+</p>
+
 ---
 
 ## Key Features
